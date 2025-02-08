@@ -1,2 +1,2 @@
 # libman
-School Library Manager with AdonisJS and Remix using Termux
+School Library Manager with Rails 8 and Remix using Termux
