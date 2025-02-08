@@ -15,4 +15,7 @@ backend/!tmp/storage/.keep
 backend/public/assets
 backend/config/master.key
 
+frontend/node_modules
+frontend/.cache
+frontend/build
 frontend/.env
